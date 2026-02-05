@@ -82,6 +82,3 @@ A **hybrid testing approach** was followed:
 **Raju Reddie**
 
 
-
-## 👤 Author
-**Raju Reddie**
